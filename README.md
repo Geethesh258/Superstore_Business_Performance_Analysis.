@@ -3,10 +3,10 @@
 ## Dashboard Preview
 
 ### Superstore Business Performance & Insights Dashboard
-![Dashboard View 1](images/dashboard_1.png)
+![Dashboard View 1](images/Supermarket analytic newdash)
 
 ### Superstore Sales & Profitability Performance Dashboard
-![Dashboard View 2](images/dashboard_2.png)
+![Dashboard View 2](images/Supermarket analytic dash1)
 
 ### Overall Business Performance
 - **Insight:** Overall sales are strong ($1.1M), but profit (~$132K) and margin (~12%) do not grow consistently with revenue.  
