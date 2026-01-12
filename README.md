@@ -4,10 +4,10 @@
 ## Dashboard Preview
 
 ### Superstore Business Performance & Insights Dashboard
-![Dashboard View 1](images/dashboard_1.png)
+![Dashboard View 1](dashboard_1.png)
 
 ### Superstore Sales & Profitability Performance Dashboard
-![Dashboard View 2](images/dashboard_2.png)
+![Dashboard View 2](dashboard_2.png)
 
 ---
 ### Overall Business Performance
