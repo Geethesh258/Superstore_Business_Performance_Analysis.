@@ -10,7 +10,8 @@
 ![Dashboard View 2](dashboard_2.png)
 
 ### Data Analysis & Dashboard Development Process
-![Explanation](analytic_project exp.png)
+![Explanation](explanation.png)
+
 
 
 ---
